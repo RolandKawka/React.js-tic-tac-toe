@@ -1,0 +1,15 @@
+.tile {
+  width: 100px;
+  height: 100px;
+  background-color: #eee;
+  float: left;
+  text-align: center;
+  margin-left: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+  font-size: 50px;
+  border-radius: 5px;
+}
+.tile:hover {
+    background-color: #CCFFFF;
+}
